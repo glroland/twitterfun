@@ -1,0 +1,2 @@
+spring.social.twitter.appId=<twitterkey>
+spring.social.twitter.appSecret=<twittersecret>
