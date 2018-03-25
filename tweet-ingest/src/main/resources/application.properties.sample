@@ -1,2 +1,4 @@
-spring.social.twitter.appId=<twitterkey>
-spring.social.twitter.appSecret=<twittersecret>
+twitter.consumerKey = <twitterkey>
+twitter.consumerSecret = <twittersecret>
+twitter.accessToken = <twittertoken>
+twitter.accessTokenSecret = <twittertokensecret>
