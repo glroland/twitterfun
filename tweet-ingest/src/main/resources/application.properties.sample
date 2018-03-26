@@ -2,3 +2,12 @@ twitter.consumerKey = <twitterkey>
 twitter.consumerSecret = <twittersecret>
 twitter.accessToken = <twittertoken>
 twitter.accessTokenSecret = <twittertokensecret>
+
+twitterTerms=trump
+twitterLanguages=en
+twitterClientName=tweet-ingest-01
+twitterMessageQueueSize=100000
+twitterEventQueueSize=1000
+
+kafkaBootstrapServers=localhost:9092
+kafkaTopic=twitter
